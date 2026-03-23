@@ -174,5 +174,3 @@ It provides bounding boxes around detected objects for both images and videos.
 Mohamed Helmy
 
 
-* make it **ATS-friendly for CV/project section**
-* or **add metrics (mAP, precision, recall)** to make it stronger for interviews
